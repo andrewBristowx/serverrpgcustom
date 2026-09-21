@@ -1,0 +1,6 @@
+entityRadar:true
+radarHideInvisibleEntities:true
+mainEntityAs:0
+minimap:true
+showWaypoints:true
+showIngameWaypoints:true

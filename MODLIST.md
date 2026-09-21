@@ -1,6 +1,25 @@
 # Lista final de mods - Somitaw Adventure Pack
 
-Generado a partir de tools/add_log.csv + correcciones manuales tras procesar tools/modlist.txt contra la API de Modrinth/CurseForge. Total de paquetes instalados (mods + resourcepacks): **~226** (después del ajuste de compatibilidad con NeoForge 47.1.106, ver abajo).
+Generado a partir de tools/add_log.csv + correcciones manuales tras procesar tools/modlist.txt contra la API de Modrinth/CurseForge. Total de paquetes instalados (mods + resourcepacks): **~234**.
+
+## Reemplazos y mods nuevos agregados
+
+Para los mods sacados por incompatibilidad (ver abajo), busqué reemplazos verificando primero (bajando el
+jar y revisando `mods.toml`) que realmente soportan NeoForge 47.1.106 antes de agregarlos:
+
+- **Regions Unexplored** — reemplaza a Biomes O' Plenty (mod de biomas nuevos)
+- **Immersive Vehicles** — reemplaza a Valkyrien Skies/Eureka Ships (vehículos)
+- **Ocean's Delight** — reemplaza parcialmente a Aquamirae (contenido oceánico)
+- **Better Combat + Combat Roll** — reemplazan a Epic Fight (combate con animaciones y esquive)
+
+**Immersive Engineering no tiene reemplazo directo**: no encontré un mod con esa estética específica
+(multibloques "realistas", cableado) que soporte NeoForge 1.20.1. El pack ya tiene bastante profundidad
+tecnológica igual (Mekanism, Thermal, Applied Energistics 2, Industrial Foregoing, Powah, Create), así que
+no agregué nada solo por agregar - avisame si querés que busque algo más específico.
+
+También se agregaron mods de optimización (Dynamic FPS, Noisium, Particle Core, FPS Reducer) - evité
+ImmediatelyFast como pediste. Se configuró el idioma en español (es_mx) y el radar de entidades de Xaero's
+Minimap (`entityRadar:true`) para que los mobs aparezcan en el minimapa.
 
 ## Ajuste de compatibilidad con NeoForge 47.1.106
 
