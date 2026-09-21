@@ -119,11 +119,6 @@ hash = "d2b2396be51a82225111cbef9e4966d586ce3ceef64f0998d259f9e43d733249"
 metafile = true
 
 [[files]]
-file = "mods/addonslib.pw.toml"
-hash = "efefd8f9ad7604e41f66d8009dfb129329c2395731e3a2fa6dafec1f4dd2595d"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "354e66b34e726f2f900ffbbd6cf52cafeb2fe31ed934bebae229a10a0359cbd1"
 metafile = true
@@ -156,11 +151,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
-metafile = true
-
-[[files]]
-file = "mods/aquamirae.pw.toml"
-hash = "a7fd2f5b6c173e0a6fe5aa0e49dbd7cb39821b052cee6441898ad58b6a1170a0"
 metafile = true
 
 [[files]]
@@ -211,11 +201,6 @@ metafile = true
 [[files]]
 file = "mods/better-indicators.pw.toml"
 hash = "3073cbb128d2e5ffa5421dc195c85269bb1c10792c7be7af41a264cb3ac12df6"
-metafile = true
-
-[[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
 
 [[files]]
@@ -316,11 +301,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "c64e1f8850019986e1974adc68edfe7bbcedd3bd7ac2008df07ca32a41f4a574"
-metafile = true
-
-[[files]]
-file = "mods/create-central-kitchen.pw.toml"
-hash = "674b1efa0d61bd1f422ed674cb8196d06150dc1b79f4e0c4096ddee800b31176"
 metafile = true
 
 [[files]]
@@ -469,16 +449,6 @@ hash = "800b6813a4e585b88132921308577c7f1b81fcebdfd03273986be38c5b2fb290"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight.pw.toml"
-hash = "01ad46d3f76d8355935ccee7e9f364961b455e5d217692356d8f03e99b811f47"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "5d93867ed1644c938145786a38b328786bb323cbcaff06bbe9f759c5157c91bf"
-metafile = true
-
-[[files]]
 file = "mods/evilcraft.pw.toml"
 hash = "66bc05f11ea257cc4eea43d1e92e8aa4fc2149273be3a85e729e3ba365dedd9d"
 metafile = true
@@ -555,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
+hash = "5e00b96f8e5ab1c1b772f2583f4244523dfb122ea49a3dd0f04190222dc751c3"
 metafile = true
 
 [[files]]
@@ -566,11 +536,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-freeze-fix.pw.toml"
 hash = "7ffd7057b5dd657fe639b108248b3fdb2f6f71a0ed2977f53637d3d5722a3ae5"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ranks-forge.pw.toml"
-hash = "437a8ab514a54c9312ff5a7c8f5a2fa712f526bb531889b8ffc75d5d460cb6e0"
 metafile = true
 
 [[files]]
@@ -594,11 +559,6 @@ hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
@@ -616,11 +576,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "5f2372d0191c0c6412051ef3d17831c23868a54f6886045ab37385a8789b600e"
-metafile = true
-
-[[files]]
-file = "mods/immersiveengineering.pw.toml"
-hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
 
 [[files]]
@@ -650,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-filters.pw.toml"
-hash = "6f92d6a906fe5d960b53dc83e0060edfb2604f8deb4b38d25f7f66525966f7ad"
+hash = "fdf3861309e0c5e87fba58671665a2c5e8a7482d06b7a1c8f9df9d6bcff5205f"
 metafile = true
 
 [[files]]
@@ -894,11 +849,6 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "e8884e38314404c9d390df83dd4129f495f54de30e3403b48dedbee95335e30b"
-metafile = true
-
-[[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "736d3d09ea2fb87f8477f72d81a1f17b8ba6ad61a9cee9c122a37b2ccbdd62c9"
 metafile = true
@@ -915,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "c9b8d127e878c9081d59b21019c3d0fa0a1e02eed5064f3c369479d807604fef"
+hash = "969078b157cd783f7c38ac33407abc4f532c244c973d52810d559f02be06db90"
 metafile = true
 
 [[files]]
@@ -1184,11 +1134,6 @@ hash = "dc6772c49f84aea07f52b920286bdaf42a95e9c351f78b339136ab26c4a25dcc"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "1dc6ca31c7b6912c494caa2a4f5f9f7250af50fbeb9ce9141ae9b741f9861987"
 metafile = true
@@ -1201,11 +1146,6 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "1901cefc095dfaeafb78fc34610febb36f9e4a0ae32f7b96f484f0dacc94c681"
-metafile = true
-
-[[files]]
-file = "mods/whisperwoods.pw.toml"
-hash = "904a4913d0e1b1fd51e4d0d0092f80d68e83e6d4de7644e29e4462e05218d9fa"
 metafile = true
 
 [[files]]

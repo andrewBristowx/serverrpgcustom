@@ -1,6 +1,16 @@
 # Lista final de mods - Somitaw Adventure Pack
 
-Generado a partir de tools/add_log.csv + correcciones manuales tras procesar tools/modlist.txt contra la API de Modrinth/CurseForge. Total de paquetes instalados (mods + resourcepacks): **232**.
+Generado a partir de tools/add_log.csv + correcciones manuales tras procesar tools/modlist.txt contra la API de Modrinth/CurseForge. Total de paquetes instalados (mods + resourcepacks): **~226** (después del ajuste de compatibilidad con NeoForge 47.1.106, ver abajo).
+
+## Ajuste de compatibilidad con NeoForge 47.1.106
+
+NeoForge para 1.20.1 se quedó fijo en la build **47.1.106** (esa es la última que existe - el proyecto
+siguió actualizando versiones más nuevas de MC en vez de seguir con 1.20.1). Varios mods que habíamos
+agregado pedían versiones de **Forge** (el proyecto original, no NeoForge) más nuevas que nunca existieron
+para NeoForge, lo que tiraba el juego al arrancar. Se sacaron del pack: Biomes O' Plenty, Immersive
+Engineering, Epic Fight, FTB Ranks, Valkyrien Skies (+ Eureka! Ships que depende de él), Whisperwoods,
+Macaw's Oh The Biomes We've Gone, Aquamirae, y Create: Central Kitchen. Se corrigieron (bajando a una
+versión más vieja compatible) FTB Library, Placebo e Item Filters.
 
 ## Rendimiento / núcleo
 
@@ -26,7 +36,6 @@ Generado a partir de tools/add_log.csv + correcciones manuales tras procesar too
 - FTB Library (NeoForge)
 - FTB Teams (NeoForge)
 - FTB Chunks (NeoForge) — protección/reclamo de terreno, útil para el servidor multijugador
-- FTB Ranks (NeoForge) — sistema de nodos de permisos de FTB (independiente del sistema de rango de chat en KubeJS; opcional)
 - FTB Quests Freeze Fix — evita cuelgues al abrir el libro de misiones con muchas misiones
 
 *(Nota: estos mods de FTB no están publicados en Modrinth, así que se agregaron vía CurseForge — ver [README.md](README.md))*
@@ -42,7 +51,6 @@ Generado a partir de tools/add_log.csv + correcciones manuales tras procesar too
 - Create Jetpack
 - Create Ore Excavation
 - Create Stuff 'N Additions
-- Create: Central Kitchen
 - Create: Connected
 - Create: Dreams & Desires
 - Create: Enchantment Industry
@@ -51,25 +59,20 @@ Generado a partir de tools/add_log.csv + correcciones manuales tras procesar too
 - Create: New Age
 - Create: Numismatics
 - Create: Steam 'n' Rails
-- Eureka! Ships! for Valkyrien Skies (Forge/Fabric)
 - Immersive Aircraft
-- Valkyrien Skies
 - [Create-TACZ]mecharmorer
 
 ## Dimensiones / exploración
 
 - Ad Astra
-- Aquamirae
 - Atmospheric
 - Beautify!
 - Beneath
-- Biomes O' Plenty
 - Blue Skies
 - Bluemap x TwilightForest
 - Explorer's Compass
 - Hexcellent
 - Incendium Legacy
-- Macaw's Oh The Biomes You'll Go / We've Gone
 - Nyf's Spiders
 - Origins (Forge)
 - Terralith
@@ -83,7 +86,6 @@ Generado a partir de tools/add_log.csv + correcciones manuales tras procesar too
 - Better IceandFire bone swords
 - Better Indicators
 - Dungeons and Taverns
-- Epic Fight
 - Frost King
 - L_Ender's Cataclysm
 - MSS - Moog's Soaring Structures
@@ -193,7 +195,6 @@ Generado a partir de tools/add_log.csv + correcciones manuales tras procesar too
 
 - Applied Energistics 2
 - Create: Power Loader
-- Immersive Engineering
 - Industrial Foregoing
 - Mekanism
 - Mekanism Generators
@@ -213,7 +214,6 @@ Generado a partir de tools/add_log.csv + correcciones manuales tras procesar too
 - Majrusz's Progressive Difficulty
 - Simple Grass Flowers
 - Tectonic
-- Whisperwoods
 - William Wythers' Overhauled Overworld
 
 ## Granjas / comida
