@@ -1,0 +1,10 @@
+{
+	chapter_groups: [
+		{ id: "4D4366D5990EF481", title: "Tutorial" }
+		{ id: "29FB323156604EAB", title: "Create" }
+		{ id: "EBFE81B722DE7DDE", title: "Exploracion" }
+		{ id: "8B0AF4EA43B1187A", title: "Enemigos" }
+		{ id: "B2DBF567447B22EE", title: "Mascotas" }
+		{ id: "4C2939C567E9FB02", title: "Magia" }
+	]
+}

@@ -1,0 +1,184 @@
+{
+	id: "9671F9FCFC6DFD73"
+	filename: "9671F9FCFC6DFD73"
+	group: "29FB323156604EAB"
+	order_index: 0
+	title: "Create"
+	icon: "create:wrench"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [ ]
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3441B35F4ABD5E72"
+			title: "Andesite Alloy"
+			icon: "create:andesite_alloy"
+			x: 0.0d
+			y: 0.0d
+			shape: "gear"
+			description: [
+				"Todo en Create empieza con el Andesite Alloy: se hace mezclando Iron Nugget y Andesite en el mundo (o en un Mechanical Mixer mas adelante)."
+			]
+			tasks: [
+				{
+					id: "4029918D711C014B"
+					type: "item"
+					item: { id: "create:andesite_alloy" }
+					count: 16L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "9F3A1DED8FB2F4A9"
+					type: "item"
+					item: "create:wrench"
+					count: 1
+				}
+			]
+		}
+		{
+			id: "00B189376FB145F4"
+			title: "El Wrench"
+			icon: "create:wrench"
+			x: 2.0d
+			y: 0.0d
+			shape: "circle"
+			dependencies: ["3441B35F4ABD5E72"]
+			description: [
+				"El Wrench es tu herramienta principal en Create: rota componentes, los mueve de lugar y te muestra informacion. Consegui uno y tenelo siempre a mano."
+			]
+			tasks: [
+				{
+					id: "9ACAE4D76305400B"
+					type: "item"
+					item: { id: "create:wrench" }
+					count: 1L
+					consume_items: false
+				}
+			]
+			rewards: [
+				{
+					id: "CA3DC2FD6CC027BE"
+					type: "xp"
+					xp: 50
+				}
+			]
+		}
+		{
+			id: "AA61DEEE9B837136"
+			title: "Ejes y engranajes"
+			icon: "create:cogwheel"
+			x: 4.0d
+			y: 0.0d
+			shape: "gear"
+			dependencies: ["00B189376FB145F4"]
+			description: [
+				"Los Shafts transmiten rotacion en linea recta, y los Cogwheels la desvian o cambian de velocidad. Con esto ya podes conectar una fuente de potencia a una maquina."
+			]
+			tasks: [
+				{
+					id: "CBB4B80471A5C90F"
+					type: "item"
+					item: { id: "create:shaft" }
+					count: 4L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "C73DA7EE84825DD7"
+					type: "item"
+					item: "create:cogwheel"
+					count: 4
+				}
+			]
+		}
+		{
+			id: "95CF7BB44C0F9F81"
+			title: "Rueda hidraulica"
+			icon: "create:water_wheel"
+			x: 6.0d
+			y: -1.0d
+			shape: "circle"
+			dependencies: ["AA61DEEE9B837136"]
+			description: [
+				"La forma mas facil de generar rotacion al principio: una Water Wheel al lado de agua corriendo. Cuanta mas agua le pegue, mas fuerte gira."
+			]
+			tasks: [
+				{
+					id: "981923A45168391C"
+					type: "item"
+					item: { id: "create:water_wheel" }
+					count: 1L
+					consume_items: false
+				}
+			]
+			rewards: [
+				{
+					id: "D9A95530D56E1B9A"
+					type: "xp"
+					xp: 75
+				}
+			]
+		}
+		{
+			id: "0D3765B24FF53835"
+			title: "Prensa mecanica"
+			icon: "create:mechanical_press"
+			x: 6.0d
+			y: 1.0d
+			shape: "circle"
+			dependencies: ["AA61DEEE9B837136"]
+			description: [
+				"El Mechanical Press aplasta items automaticamente si tiene rotacion. Es tu primera maquina de verdad automatizada."
+			]
+			tasks: [
+				{
+					id: "89A92828F6948FD9"
+					type: "item"
+					item: { id: "create:mechanical_press" }
+					count: 1L
+					consume_items: false
+				}
+			]
+			rewards: [
+				{
+					id: "09E68635AB4BB0E1"
+					type: "item"
+					item: "create:brass_sheet"
+					count: 4
+				}
+			]
+		}
+		{
+			id: "34654474914A77C5"
+			title: "Backtank de cobre"
+			icon: "create:copper_backtank"
+			x: 8.0d
+			y: 0.0d
+			shape: "diamond"
+			dependencies: ["95CF7BB44C0F9F81", "0D3765B24FF53835"]
+			description: [
+				"Con la fabrica basica funcionando, ya podes fabricar un Copper Backtank para bucear o para usar herramientas neumaticas de Create."
+			]
+			tasks: [
+				{
+					id: "E04A00366CC538A2"
+					type: "item"
+					item: { id: "create:copper_backtank" }
+					count: 1L
+					consume_items: false
+				}
+			]
+			rewards: [
+				{
+					id: "8E1435E2214B7640"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+	]
+}
