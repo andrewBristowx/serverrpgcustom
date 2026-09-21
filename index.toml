@@ -10,7 +10,7 @@ hash = "e6dd79690a9c64b3bd4a02eac0e29a50448be9acb35ea95c15b25f304be0fc57"
 
 [[files]]
 file = "MODLIST.md"
-hash = "831f037f49849cc8de217af248b9100e0bcf8ba75c72bc315b1f600e9848b52e"
+hash = "839383dc0494317a62b1732f1c2c9e534068c189f1087596b12fe363f52e3de8"
 
 [[files]]
 file = "QUEST_DESIGN.md"
@@ -403,11 +403,6 @@ hash = "ce751efd1e64565620d6cc96a43dcdada09bcc3eab608206f08343e95b0d6c56"
 metafile = true
 
 [[files]]
-file = "mods/dark-doppelganger.pw.toml"
-hash = "0a76893585fc8a3c001a3aea4671772e8eadc7d9d0d22421872811c85438399c"
-metafile = true
-
-[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "bf6be5e42afaafa615c63b6cac9500fbedd27ab54cdeca86afc8dc98a49618cb"
 metafile = true
@@ -549,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "5e00b96f8e5ab1c1b772f2583f4244523dfb122ea49a3dd0f04190222dc751c3"
+hash = "074242662402943a26c23ac4297a57b81f17feb607767782b6b23bd064ac93d3"
 metafile = true
 
 [[files]]
@@ -629,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "e2337a3930d3dfb07c051ff0000b2ebd8d4638e17f091b7ad2c786bf0b25d095"
+hash = "fd978b432d912e1b9cd943f7ab46972bde14148acec5ff25fea4a8a7c287153d"
 metafile = true
 
 [[files]]
@@ -709,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-byg-bwg.pw.toml"
-hash = "87629f7518642f1dafac5692fb430d20c5d5eecd208530e55f100eb1ca6ee3f0"
+hash = "bbb3ff69b1d97eeffe1edcb567c452cdf08856a4f76a4dcf4e7cd9a32ffe509d"
 metafile = true
 
 [[files]]
