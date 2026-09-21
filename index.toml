@@ -5,16 +5,60 @@ file = ".claude/scheduled_tasks.lock"
 hash = "2ca4c5f28a4029d9219d0949cf9279f36804d482626597369ff4b8b4e88e9c22"
 
 [[files]]
+file = "MENU_GUIDE.md"
+hash = "ab19e1ac1a4063ad09a44afbe177154de155810e4017069b82bf077a38b474b4"
+
+[[files]]
 file = "MODLIST.md"
 hash = "53fe948320b7943d8a9331d452408d7695709c8d140fde4da4ef97d0963eab35"
 
 [[files]]
 file = "QUEST_DESIGN.md"
-hash = "6f476f44b44482ebd3dd969c28cf52d9ffdb125009567d3558c30d239a8e53e5"
+hash = "98796440ddd9cdf62deb649fa5d3df85cdbe27e27945ad918cfe4500c8e639a0"
 
 [[files]]
 file = "README.md"
-hash = "904d2a8025659081e230723fec3fff955ca197481ad5ff186f4f61f764498ae8"
+hash = "5b2ff46f49700884f0d4bd5532c2cfe599991fa72b55dcbbd866d13f4811c11c"
+
+[[files]]
+file = "config/fancymenu/assets/background.png"
+hash = "d69cafd40111556c0934294527db922863c3116a68d9ab53710dea89abcfa283"
+
+[[files]]
+file = "config/fancymenu/assets/btn_ajustes.png"
+hash = "a28919424d4b018c8119491fcf2f6e51e178fba3443653b414abf55c46b0e07f"
+
+[[files]]
+file = "config/fancymenu/assets/btn_blank_a.png"
+hash = "f72f87a8cf51cc5a7fc99a767d19b6042192a6741f6b8e55bc84f8a176eaff34"
+
+[[files]]
+file = "config/fancymenu/assets/btn_blank_b.png"
+hash = "277c9490f9a42b1e05a35f2ac46d0e8c71feac54c5a7d6411a650b234af856d8"
+
+[[files]]
+file = "config/fancymenu/assets/btn_discord.png"
+hash = "c1943c212f3ffc04ca01aa4ab23e504ed6cdec12449d775cd5c0d484070a04b5"
+
+[[files]]
+file = "config/fancymenu/assets/btn_info.png"
+hash = "91a272bf0d9eee8767aa84106fe623b96252e57aa73a8d02b23c3be2e482ab9c"
+
+[[files]]
+file = "config/fancymenu/assets/btn_jugar.png"
+hash = "8d9fe98778f6dbadcd941a816506ae4a26cd40f28eefc9d8eb6b286846a0135c"
+
+[[files]]
+file = "config/fancymenu/assets/btn_multijugador.png"
+hash = "613dad122463e31350ba444ddb4e82246d24c6fcb76caeffe668639be69bd3f4"
+
+[[files]]
+file = "config/fancymenu/assets/btn_salir.png"
+hash = "30da720bf58a9648e67189518c0f6c06f8e28fce4d8c1e1af3ee99a1d4da3bdb"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "ae44629c13678ffd77b40bbfa08fda4350f8aa8c6c55908aa911d02438cfe4be"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -433,6 +477,11 @@ hash = "8d11358dfd1f3591ee0ce8728d6a3234e1edef5db39c52fe68264ecf7684968d"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "51018c9eef234150cdabf92bbeaf82c5a7aa2e5258b6efeea1aff4924bd3d901"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c83385838fbf5cdd40684e5f6d4b7bcc2126de4abca229a60b7063e57a5a4615"
 metafile = true
@@ -608,6 +657,11 @@ hash = "0283bc8ad6747509b92906a0900b019a8bbe6d332a6b3ebca48dce4bc16ca9a1"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
@@ -730,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "8def80b33354bc9525033d543925d45cddf54c1ad8b5b943e567cc2b1749d337"
 metafile = true
 
 [[files]]

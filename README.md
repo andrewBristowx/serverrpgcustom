@@ -6,8 +6,11 @@ URL de `pack.toml` para instaladores (packwiz-installer, Prism Launcher):
 
 Modpack grande orientado a aventura: **Create** como columna vertebral tecnológica, un montón de
 dimensiones/exploración, enemigos y jefes, mascotas domesticables, un sistema de misiones guiado (FTB
-Quests) y un sistema de rangos de chat administrable por comandos (admin / vip / streamer), todo montado
-con **packwiz** y scripts de **KubeJS**.
+Quests), un sistema de rangos de chat administrable por comandos (admin / vip / streamer), y un menú
+principal/pausa personalizado (FancyMenu) - todo montado con **packwiz** y scripts de **KubeJS**.
+
+Menú custom: ver [MENU_GUIDE.md](MENU_GUIDE.md) - los assets ya están recortados y listos, falta armarlos
+en el editor in-game de FancyMenu (no se puede escribir ese layout a mano, ver el porqué en esa guía).
 
 ## Estructura del proyecto
 
