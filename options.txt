@@ -1,0 +1,10 @@
+lang:es_mx
+renderDistance:10
+simulationDistance:8
+graphicsMode:1
+ao:false
+entityShadows:false
+particles:1
+maxFps:120
+chatHeightFocused:1.0
+useNativeTransport:true

@@ -10,7 +10,7 @@ hash = "e6dd79690a9c64b3bd4a02eac0e29a50448be9acb35ea95c15b25f304be0fc57"
 
 [[files]]
 file = "MODLIST.md"
-hash = "53fe948320b7943d8a9331d452408d7695709c8d140fde4da4ef97d0963eab35"
+hash = "831f037f49849cc8de217af248b9100e0bcf8ba75c72bc315b1f600e9848b52e"
 
 [[files]]
 file = "QUEST_DESIGN.md"
@@ -70,7 +70,7 @@ hash = "f3192aa0b79c43611d782894c08545f0e1d0487cfdf6c9391707c6f1a628eace"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "77236ed27f68de1b2ac687f72c5e698f49da6cedfcecc1bcc600ecc74124ff5f"
+hash = "3ac13bb4557dbe6681440737ba779c7fc8565572bca8e4274c440b662f97fb03"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -99,6 +99,10 @@ hash = "482f25fc6da5b0021bd43e0017d4980c4d2b638cdc5cc7fa7ed69e691edc7dd9"
 [[files]]
 file = "config/ftbquests/quests/chapters/F9C8D0C5C115BF36.snbt"
 hash = "be28ff6a028f2bd0c648d176a729b2763ec62a18aabd2b3355d962c3187fe457"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "dd3c7970ceac593404f38fd4daed7e1db3458198a4623593298cb6f49024d21e"
 
 [[files]]
 file = "kubejs/server_scripts/rank_chat_color.js"
@@ -199,6 +203,11 @@ hash = "7041a70442b77bad7fa666e92875b35c54f09bf06637c03e0edeb56d31000d6d"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "52b4f29eb4a4392ef085617292842dc9fc84d86c318da5ce470b24eab77f6bdc"
+metafile = true
+
+[[files]]
 file = "mods/better-indicators.pw.toml"
 hash = "3073cbb128d2e5ffa5421dc195c85269bb1c10792c7be7af41a264cb3ac12df6"
 metafile = true
@@ -271,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "d6a121d9d5077c45622f94bcf146e1bc5a2e06dd9ab3f6cdebfd0778e0c0c45c"
 metafile = true
 
 [[files]]
@@ -424,6 +438,11 @@ hash = "fb3eb7cd5aa4f28bab3e2402e58b0eec67e481ba292a18337a8852726c0c594e"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
 metafile = true
@@ -496,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/fluffy-fur.pw.toml"
 hash = "9790c53d6536e5bfddeda49810d63ebabd1b79b82cc36cca82b9dfd2f6c78dbd"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "ce017d458014e11d80c66b0840779531fbdb0089d6d58be62e2ebb3916f8c1ca"
 metafile = true
 
 [[files]]
@@ -576,6 +600,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "5f2372d0191c0c6412051ef3d17831c23868a54f6886045ab37385a8789b600e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles.pw.toml"
+hash = "704fad4989730378eb427751d32a53d1e5bd8fb8ef5a2677a766cca404b519a1"
 metafile = true
 
 [[files]]
@@ -824,6 +853,11 @@ hash = "a1d3b1b3f1a9ec557cbe63ea70dfc6f7048312ae5f807a7f0ebaa3278dcef594"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "85f965de3efa0ad66252b3540afff30d5a3cf8c9cb86692987830b8ae08489c5"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "3336be9f51750f8d55dc216516c542440f7a207dcfafc0fae8d6f28c90040116"
 metafile = true
@@ -844,6 +878,11 @@ hash = "2b4193156e0322eb82ce6dd168530cdcc77c64c186e277eec788f5bb30a22271"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7f5a7cc6134e81f6f9411e353d5f92bee50fba2edfbc738b1fb3732a54cf51ba"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
@@ -851,6 +890,11 @@ metafile = true
 [[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "736d3d09ea2fb87f8477f72d81a1f17b8ba6ad61a9cee9c122a37b2ccbdd62c9"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "cc71ab4296fffdfca0a373adba4c7721ccad228f305fda8566507063de65e40e"
 metafile = true
 
 [[files]]
@@ -921,6 +965,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
 
 [[files]]
@@ -1212,6 +1261,10 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "1060f0d646cdcbc2a9bb4a28bff36da21db9f37ab3a9d1591f9c7ba5e1d58274"
 
 [[files]]
 file = "resourcepacks/asyasas-legacy-copper.pw.toml"
