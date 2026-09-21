@@ -1,0 +1,13 @@
+name = "Primal Winter"
+filename = "primalwinter-forge-1.20-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BOwymOaY/versions/Q6znQM53/primalwinter-forge-1.20-5.0.0.jar"
+hash-format = "sha512"
+hash = "59b562cc103eb23f35ad601d5033b5b959346cdc4d7024297fef5afbe7c151eff47ff05b3ac8ec219f1ca0632e52fc84d6c85a17a5d9208fc72a2c7309fda8b0"
+
+[update]
+[update.modrinth]
+mod-id = "BOwymOaY"
+version = "Q6znQM53"

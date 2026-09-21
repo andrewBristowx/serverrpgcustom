@@ -1,0 +1,13 @@
+name = "Somitaw Adventure Pack"
+author = "somitadepony"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5917a13cfcb11547708e8ce45c3bde14d6b005da5f5ff41df772ff38032f2a11"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

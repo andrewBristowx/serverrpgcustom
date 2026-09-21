@@ -1,0 +1,13 @@
+name = "Puffish Skills Leveling"
+filename = "puffish_skill_leveling-0.17.2-1.20-forge_hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hUX9zjYj/versions/E90OOvBu/puffish_skill_leveling-0.17.2-1.20-forge_hotfix.jar"
+hash-format = "sha512"
+hash = "e449ac82ea69a16ca060c25a9c127d9b435b7783cf9741738f857d1b952e69be9f9b3bc4da01a97fe5c547ff3f61aee1e2c0f65e5e0ea39eea71738827ee6692"
+
+[update]
+[update.modrinth]
+mod-id = "hUX9zjYj"
+version = "E90OOvBu"

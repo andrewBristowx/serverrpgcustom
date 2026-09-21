@@ -1,0 +1,13 @@
+name = "Utility Golems"
+filename = "utilitygolems-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z1kkndBE/versions/4OV9zCqU/utilitygolems-1.1.0.jar"
+hash-format = "sha512"
+hash = "3cf75dcb684d478c22f0340d327192730402f3e4368f01340744ca9ee894169f365e6a73b8b5062118d9f35b1acd38e316ff438ddbdb0bd4899c58a5c98012da"
+
+[update]
+[update.modrinth]
+mod-id = "z1kkndBE"
+version = "4OV9zCqU"

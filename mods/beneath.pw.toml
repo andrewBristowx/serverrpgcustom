@@ -1,0 +1,13 @@
+name = "Beneath"
+filename = "beneath-1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6VieRZiz/versions/vJG1yevl/beneath-1.20.1-1.0.6.jar"
+hash-format = "sha512"
+hash = "a609b95ec50aa9be9260beef01bc5cd8915de1c65abc8c6b7ae65dbb70ee5c0c643d20bbafac2772e95977660843b6c4b920161b62845ae1d96e7801dedc97ca"
+
+[update]
+[update.modrinth]
+mod-id = "6VieRZiz"
+version = "vJG1yevl"

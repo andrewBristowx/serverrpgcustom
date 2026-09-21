@@ -1,0 +1,13 @@
+name = "Frost King"
+filename = "frost_king-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HPEmScCB/versions/fvMjjK8H/frost_king-1.6.jar"
+hash-format = "sha512"
+hash = "4d856722b5898d7baa6552b9a2b65ab53f41db85ed8f31a2a1332fa51d1fcd8444642d936413586ef13962803c3aef38239da70e34929360d66c40f9f9b77a8e"
+
+[update]
+[update.modrinth]
+mod-id = "HPEmScCB"
+version = "fvMjjK8H"

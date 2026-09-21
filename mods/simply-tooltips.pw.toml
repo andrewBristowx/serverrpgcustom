@@ -1,0 +1,13 @@
+name = "Simply Tooltips"
+filename = "SimplyTooltips-neoforge-0.1.5-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6avVoBVB/versions/qnfRfhak/SimplyTooltips-neoforge-0.1.5-1.20.1.jar"
+hash-format = "sha512"
+hash = "00f86a7d8cf60ecaea76f49b37841a23db755d4f56e02000be01466250f8bf3120ca6f6fb10ba9277d9957ac63ae4c075a1359c3252f86c86e426a9915918575"
+
+[update]
+[update.modrinth]
+mod-id = "6avVoBVB"
+version = "qnfRfhak"

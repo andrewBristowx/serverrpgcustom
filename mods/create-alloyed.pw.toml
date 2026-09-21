@@ -1,0 +1,13 @@
+name = "Alloyed"
+filename = "alloyed-2.1.4+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KUInlTFo/versions/9QsU50Zh/alloyed-2.1.4%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "db86d04d3bb53df61c1662868be057b62f7d410e20a9d8f74651f005789e561ed9352cbce96a15e8cd3953cda9e36a3b0c95715ea3c8954edc657f6de72a7674"
+
+[update]
+[update.modrinth]
+mod-id = "KUInlTFo"
+version = "9QsU50Zh"

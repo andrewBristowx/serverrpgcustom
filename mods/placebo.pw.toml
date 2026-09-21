@@ -1,0 +1,13 @@
+name = "Placebo"
+filename = "Placebo-1.20.1-8.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tCkE8p2N/versions/NK0coiau/Placebo-1.20.1-8.2.0.jar"
+hash-format = "sha512"
+hash = "0f231104f4497559ba01d59ab06bf793d9be7f82f16de01f4d35ea8be86132ef0369e0bfe906b0e428a7e08299cd366a2ad6f673cd6e78dc0dd3d8d949b0cb44"
+
+[update]
+[update.modrinth]
+mod-id = "tCkE8p2N"
+version = "NK0coiau"

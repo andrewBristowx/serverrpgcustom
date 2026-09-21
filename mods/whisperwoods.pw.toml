@@ -1,0 +1,13 @@
+name = "Whisperwoods"
+filename = "whisperwoods-1.20.1-2.1.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MQyX33RX/versions/fecQqSDX/whisperwoods-1.20.1-2.1.2-forge.jar"
+hash-format = "sha512"
+hash = "4868586fe7195745deb8d8f26816ddae88a3d665b9daed1ca145b6314007867e8dfd2ea3923c27f7e01da658ac0616c0fd373418924174e2bda54ad11951098c"
+
+[update]
+[update.modrinth]
+mod-id = "MQyX33RX"
+version = "fecQqSDX"

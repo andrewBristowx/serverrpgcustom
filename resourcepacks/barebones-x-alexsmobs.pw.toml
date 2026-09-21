@@ -1,0 +1,13 @@
+name = "Bare Bones X Alex's Mobs"
+filename = "BareBonesXAM.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yr4sE2HE/versions/S4aC4zFo/BareBonesXAM.zip"
+hash-format = "sha512"
+hash = "48db25681fcc2f8bee9f5ac90fe8e73db19235d4c7a1aea3e3c285ca73bf9848132c6f700819245b2f4fdf571714a77438caeeb9bc15d68a19bfd959442dd8ad"
+
+[update]
+[update.modrinth]
+mod-id = "Yr4sE2HE"
+version = "S4aC4zFo"

@@ -1,0 +1,13 @@
+name = "Majrusz's Progressive Difficulty"
+filename = "majruszs-difficulty-neoforge-1.20.1-1.9.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGDBwjOg/versions/8xHIlkvY/majruszs-difficulty-neoforge-1.20.1-1.9.10.jar"
+hash-format = "sha512"
+hash = "7a7cd4cf6cc3744115a83cf7f897da3b0ffa9281125e386e4678c1bff300f43ae49540c40ade83c1cc0ac7ad8ea83ff80f97e1b08052a18f9f5b757f4b76234a"
+
+[update]
+[update.modrinth]
+mod-id = "GGDBwjOg"
+version = "8xHIlkvY"

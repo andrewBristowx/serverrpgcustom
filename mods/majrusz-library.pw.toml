@@ -1,0 +1,13 @@
+name = "Majrusz Library"
+filename = "majrusz-library-neoforge-1.20.1-7.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PYQD8noM/versions/O67H6VJD/majrusz-library-neoforge-1.20.1-7.0.8.jar"
+hash-format = "sha512"
+hash = "fd2bc331ebd9915465f8aa0dca64241c3523d30c8f3178a5498f35aa8429c588e064b62ddd91a83da511ad4c6b302681b04974fb188132a13f24142d47738987"
+
+[update]
+[update.modrinth]
+mod-id = "PYQD8noM"
+version = "O67H6VJD"

@@ -1,0 +1,171 @@
+Rendimiento|Embeddium
+Rendimiento|Oculus
+Rendimiento|FerriteCore
+Rendimiento|ModernFix
+Rendimiento|Entity Culling
+Rendimiento|Clumps
+Rendimiento|Fast Item Frames
+Rendimiento|Moonlight Lib
+Rendimiento|spark
+KubeJS|KubeJS
+KubeJS|KubeJS Create
+KubeJS|Architectury API
+Create|Create
+Create|Create Deco
+Create|Create: Connected
+Create|Create: Steam 'n' Rails
+Create|Create: Interiors
+Create|Create Confectionery
+Create|Create: New Age
+Create|Create: Enchantment Industry
+Create|Create Big Cannons
+Create|Create: Dreams & Desires
+Create|Create: Central Kitchen
+Create|Create Ore Excavation
+Create|AsYasya's Legacy Copper
+Create|Create Stuff 'N Additions
+Create|Create: Garnished
+Create|Create: Numismatics
+Create|Alloyed
+Create|[Create-TACZ]mecharmorer
+Create|Create Jetpack
+Create|Immersive Aircraft
+Create|Valkyrien Skies
+Create|Eureka! Ships! for Valkyrien Skies (Forge/Fabric)
+Dimensiones|Bluemap x TwilightForest
+Dimensiones|The Aether
+Dimensiones|Blue Skies
+Dimensiones|Ad Astra
+Dimensiones|Incendium Legacy
+Dimensiones|Nyf's Spiders
+Dimensiones|Terralith
+Dimensiones|Macaw's Oh The Biomes You'll Go / We've Gone
+Dimensiones|Biomes O' Plenty
+Dimensiones|Atmospheric
+Dimensiones|The Undergarden
+Dimensiones|Origins (Forge)
+Dimensiones|Hexcellent
+Dimensiones|Beneath
+Dimensiones|Aquamirae
+Dimensiones|Beautify!
+Dimensiones|Explorer's Compass
+Dimensiones|When Dungeons Arise
+Enemigos|Bare Bones X Alex's Mobs
+Enemigos|L_Ender's Cataclysm
+Enemigos|Mutant Monsters
+Enemigos|Frost King
+Enemigos|MSS - Moog's Soaring Structures
+Enemigos|Better IceandFire bone swords
+Enemigos|Dungeons and Taverns
+Enemigos|Primal Winter
+Enemigos|The Endergetic Expansion
+Enemigos|Epic Fight
+Enemigos|Mine and Slash
+Enemigos|Better Indicators
+Mascotas|Naturalist
+Mascotas|Kobolds
+Mascotas|Additional Additions: Vanilla+ QoL; Sniffers; Music; Food
+Mascotas|Fluffy Fur
+Mascotas|Mizuno's x Letsdo Farm and Charm
+Mascotas|Tinkers' Construct
+Magia|Ars Nouveau
+Magia|Dark Doppelganger - Irons Spells And Spellbooks Addon
+Magia|Botania
+Magia|EvilCraft
+Magia|Ars Creo
+Magia|Occultism
+Magia|Apotheosis
+Magia|Puffish Skills Leveling
+Combate|tetra
+Combate|Silent Gear
+Combate|Simply Swords
+Combate|Dungeons Plus
+Combate|Medical Remedies (Formerly Marbled's First Aid)
+Combate|Spartan Weaponry
+Combate|Spartan Shields
+Estructuras|Dungeon Crawl
+Estructuras|Towns and Towers
+Decoracion|Chipped
+Decoracion|Quark
+Decoracion|Sophisticated Backpacks
+Decoracion|Sophisticated Storage
+Decoracion|Farmer's Delight
+Decoracion|Farmer's Respite
+Decoracion|Nether's Delight
+Decoracion|Cooking for Blockheads
+Decoracion|Macaw's Bridges
+Decoracion|Macaw's Doors
+Decoracion|Macaw's Windows
+Decoracion|Macaw's Fences and Walls
+Decoracion|Macaw's Roofs
+Decoracion|Macaw's Paths and Pavings
+Decoracion|Macaw's Furniture
+Decoracion|Supplementaries
+Decoracion|Handcrafted
+Decoracion|Corpse
+Decoracion|Waystones
+Utilidad|Just Enough Items (JEI)
+Utilidad|Jade 🔍
+Utilidad|Mouse Tweaks
+Utilidad|TrashSlot
+Utilidad|XP Tome
+Utilidad|TorchMaster
+Utilidad|Polymorph
+Utilidad|AppleSkin
+Utilidad|Inventory Profiles Next
+Utilidad|Easy Anvils
+Utilidad|Easy Villagers
+Utilidad|Xaero's Minimap
+Utilidad|Xaero's World Map
+Utilidad|Controlling
+Utilidad|Comforts
+Utilidad|Puzzles Lib
+Utilidad|Item Filters
+Utilidad|Shulker Box Tooltip
+Utilidad|Reap Mod
+Utilidad|Structure Compass
+Utilidad|Not Enough Animations
+Utilidad|Tom's Simple Storage Mod
+Utilidad|Farsighted Mobs
+Utilidad|Chunky
+Utilidad|Cloth Config API
+Utilidad|Curios API
+Utilidad|Geckolib
+Utilidad|Kotlin for Forge
+Utilidad|YUNG's API
+Utilidad|Balm
+Tecnologia|Mekanism
+Tecnologia|Mekanism Generators
+Tecnologia|Mekanism Tools
+Tecnologia|Applied Energistics 2
+Tecnologia|Immersive Engineering
+Tecnologia|Thermal Expansion
+Tecnologia|Thermal Foundation
+Tecnologia|Thermal Innovation
+Tecnologia|Industrial Foregoing
+Tecnologia|Powah!
+Tecnologia|Modular Routers
+Tecnologia|Pipez
+Tecnologia|Refined Storage
+Tecnologia|Create: Power Loader
+Mundo|William Wythers' Overhauled Overworld
+Mundo|Tectonic
+Mundo|Geophilic
+Mundo|Whisperwoods
+Mundo|Simple Grass Flowers
+Mundo|Majrusz Library
+Mundo|Majrusz's Progressive Difficulty
+Granjas|Productive Bees
+Granjas|Productive Trees
+Granjas|Let Me Despawn
+Granjas|Utility Golems
+Granjas|Farming for Blockheads
+Aventura|Artifacts
+Aventura|What's That Slot?
+Aventura|Dungeon Now Loading
+Aventura|From The Fog
+Aventura|Caverns & Chasms
+Aventura|Underground Villages
+Aventura|Bygone Nether
+Aventura|Deep Aether
+Aventura|Savage & Ravage

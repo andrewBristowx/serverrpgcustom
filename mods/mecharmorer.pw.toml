@@ -1,0 +1,13 @@
+name = "[Create-TACZ]mecharmorer"
+filename = "mecharmorer_bullets-4.0.4-simple.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cas9JGVe/versions/d4O7s8OT/mecharmorer_bullets-4.0.4-simple.jar"
+hash-format = "sha512"
+hash = "da3b6be4a8e630efe668f0016a255294d250903be8fdc5d346c48c1a4f8b82bc9a7a0475aff4c690d0c042a7629a99fc964112195a84b7ac097e054daff6e4e0"
+
+[update]
+[update.modrinth]
+mod-id = "cas9JGVe"
+version = "d4O7s8OT"

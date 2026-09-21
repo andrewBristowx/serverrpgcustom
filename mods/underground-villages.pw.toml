@@ -1,0 +1,13 @@
+name = "Underground Villages"
+filename = "UndergroundVillages-forge-1.20.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iQ2U9xwG/versions/XAQK0aRV/UndergroundVillages-forge-1.20.1-2.1.0.jar"
+hash-format = "sha512"
+hash = "3ceaafc46d135957195549507ffca976752605133a6198195b30884a775e767762af329ddfd97584670a50a5504fdef1b352ec0821d4941f5248cecde544e8a5"
+
+[update]
+[update.modrinth]
+mod-id = "iQ2U9xwG"
+version = "XAQK0aRV"

@@ -1,0 +1,13 @@
+name = "Hexcellent"
+filename = "hexcellence-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CwopO393/versions/3GM6UM00/hexcellence-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "7fcdb8ac0e6c5c0ab14e8e5a2170a43ea4c37356ffd5b0ebca7587afb77cf6ee03a74439866e2433d061e1de37624bb876b2386a99a92d346d78040edd4fc1b5"
+
+[update]
+[update.modrinth]
+mod-id = "CwopO393"
+version = "3GM6UM00"

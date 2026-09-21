@@ -1,0 +1,13 @@
+name = "Better IceandFire bone swords"
+filename = "3Dbetter_swords.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pxzFE6ql/versions/VCDnC9CZ/3Dbetter_swords.zip"
+hash-format = "sha512"
+hash = "563a3b00fd3e73768741b47c802051475034dc6c7bde59df6fcbdfec6ebea5acbf12f9a2a26b6c92a30b1593cb7967fa3fc4f211e017d8ef6e07412aa98f84fe"
+
+[update]
+[update.modrinth]
+mod-id = "pxzFE6ql"
+version = "VCDnC9CZ"

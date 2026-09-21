@@ -1,0 +1,3 @@
+.claude/
+tools/*.exe
+tools/gh_login*.log

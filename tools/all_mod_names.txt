@@ -1,0 +1,226 @@
+Ad Astra
+Additional Additions: Vanilla+ QoL, Sniffers, Music, Food
+AddonsLib
+Alex's Mobs
+Alloyed
+Almanac
+Apotheosis
+Apothic Attributes
+AppleSkin
+Applied Energistics 2
+Aquamirae
+Architectury API
+Ars Creo
+Ars Nouveau
+Artifacts
+Athena
+Atmospheric
+Balm
+Beautify!
+Beneath
+Better Indicators
+Biomes O' Plenty
+Blue Skies
+BlueMap
+Blueprint
+Botania
+Botarium
+Bygone Nether
+Caelus API
+Caverns & Chasms
+Chipped
+Chunky
+Cloth Config API
+Clumps
+CoFH Core
+Comforts
+Controlling
+Cooking for Blockheads
+Corpse
+Create
+Create Big Cannons
+Create Confectionery
+Create Deco
+Create Jetpack
+Create Ore Excavation
+Create Stuff 'N Additions
+Create: Central Kitchen
+Create: Connected
+Create: Dragons Plus
+Create: Dreams & Desires
+Create: Enchantment Industry
+Create: Garnished
+Create: Interiors
+Create: New Age
+Create: Numismatics
+Create: Power Loader
+Create: Steam 'n' Rails
+Cristel Lib
+Curios API
+Cyclops Core
+Dark Doppelganger - Irons Spells And Spellbooks Addon
+Deep Aether
+Dungeon Crawl
+Dungeon Now Loading
+Dungeon Realm
+Dungeons Plus
+Dungeons and Taverns
+Easy Anvils
+Easy Villagers
+Embeddium
+Entity Culling
+Epic Fight
+Eureka! Ships! for Valkyrien Skies (Forge/Fabric)
+EvilCraft
+Explorer's Compass
+FTB Chunks (NeoForge)
+FTB Chunks Compatibility mod
+FTB Library (NeoForge)
+FTB Quests (NeoForge)
+FTB Quests Freeze Fix
+FTB Ranks (NeoForge)
+FTB Teams (NeoForge)
+Farmer's Delight
+Farmer's Respite
+Farming for Blockheads
+Farsighted Mobs
+Fast Item Frames
+FerriteCore
+Fluffy Fur
+Fragmentum
+From The Fog
+Frost King
+Fzzy Config
+Geckolib
+Geophilic
+GlitchCore
+Handcrafted
+Hexcellent
+Immersive Aircraft
+Immersive Engineering
+Incendium Legacy
+Industrial Foregoing
+Inventory Profiles Next
+Item Filters
+Jade 🔍
+Just Enough Items (JEI)
+Kobolds
+Kotlin for Forge
+KubeJS
+KubeJS Create
+L_Ender's Cataclysm
+Let Me Despawn
+Library of Exile
+Lionfish-API
+MSS - Moog's Soaring Structures
+Macaw's Bridges
+Macaw's Doors
+Macaw's Fences and Walls
+Macaw's Furniture
+Macaw's Oh The Biomes You'll Go / We've Gone
+Macaw's Paths and Pavings
+Macaw's Roofs
+Macaw's Windows
+Majrusz Library
+Majrusz's Progressive Difficulty
+Mantle
+Medical Remedies (Formerly Marbled's First Aid)
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Mine and Slash
+ModernFix
+Modonomicon
+Modular Routers
+Moog's Structure Lib (moogs_structures)
+Moonlight Lib
+Mouse Tweaks
+Mowzie's Mobs
+Mutant Monsters
+Naturalist
+Nether's Delight
+Not Enough Animations
+Nyf's Spiders
+Occultism
+Oculus
+Oh The Biomes We've Gone
+Origins (Forge)
+Patchouli
+Pipez
+Placebo
+Polymorph
+Powah!
+Primal Winter
+Productive Bees
+Productive Trees
+Pufferfish's Skills
+Puffish Skills Leveling
+Puzzles Lib
+Quark
+Reap Mod
+Refined Storage
+Resourceful Config
+Resourceful Lib
+Rhino
+Ritchie's Projectile Library
+Savage & Ravage
+Searchables
+Shulker Box Tooltip
+Silent Gear
+Silent Lib
+Simply Swords
+Simply Tooltips
+SmartBrainLib
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+Spartan Shields
+Spartan Weaponry
+Structure Compass
+Structure Gel API
+Supplementaries
+Tectonic
+TerraBlender
+TerraFirmaCraft
+Terralith
+The Aether
+The Endergetic Expansion
+The Harvest
+The Undergarden
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Tinkers' Construct
+Titanium
+Tom's Simple Storage Mod
+TorchMaster
+Towns and Towers
+TrashSlot
+Underground Villages
+Utility Golems
+Valkyrien Skies
+Waystones
+What's That Slot?
+When Dungeons Arise
+Whisperwoods
+William Wythers' Overhauled Overworld
+XP Tome
+Xaero's Minimap
+Xaero's World Map
+YUNG's API
+YUNG's Better Dungeons
+YUNG's Better Mineshafts
+YUNG's Better Nether Fortresses
+YUNG's Better Ocean Monuments
+YUNG's Better Strongholds
+YUNG's Bridges
+YUNG's Extras
+Zeta
+[Create-TACZ]mecharmorer
+[Let's Do] Farm & Charm
+[TaCZ] Timeless and Classics Zero
+libIPN
+mutil
+playerAnimator
+spark
+tetra

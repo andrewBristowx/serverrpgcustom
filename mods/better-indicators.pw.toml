@@ -1,0 +1,13 @@
+name = "Better Indicators"
+filename = "better_indicators-1.0.1-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JDZq1pbc/versions/mMBDZCU2/better_indicators-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "3046d6a3aa80f9c3a394633069b814477e1115422abec9ed26bfa5a33fa1d1734f5e0426176bd43a2720a9a4a3b021dd3aab0dad43de98e2f0e07c1dfd99c720"
+
+[update]
+[update.modrinth]
+mod-id = "JDZq1pbc"
+version = "mMBDZCU2"
