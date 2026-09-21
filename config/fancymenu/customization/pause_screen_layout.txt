@@ -1,0 +1,104 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = pause_screen
+  render_custom_elements_behind_vanilla = true
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_pausescreen_options_button
+  anchor_point = vanilla
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_pausescreen_disconnect_button
+  anchor_point = vanilla
+  is_hidden = true
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/logo.png
+  repeat_texture = false
+  nine_slice_texture = false
+  element_type = image
+  instance_identifier = 5e4c89ff-2a06-4d87-baa8-3957e8118b58-1789953351551
+  anchor_point = top-centered
+  x = 0
+  y = 20
+  width = 220
+  height = 73
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+}
+
+element {
+  button_element_executable_block_identifier = 8906191f-08c8-49c3-bc7e-92d90795069d-1789953351551
+  [executable_action_instance:a4599a00-3562-447c-b4fa-79ddef47104a-1789953351551][action_type:mimicbutton] = pause_screen:mc_pausescreen_options_button
+  [executable_block:8906191f-08c8-49c3-bc7e-92d90795069d-1789953351551][type:generic] = [executables:a4599a00-3562-447c-b4fa-79ddef47104a-1789953351551;]
+  backgroundnormal = [source:local]/config/fancymenu/assets/btn_ajustes.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/btn_ajustes.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Ajustes
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 178b0992-b779-4a7d-80fb-4af692e5a217-1789953351551
+  anchor_point = mid-centered
+  x = 0
+  y = -20
+  width = 240
+  height = 80
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+}
+
+element {
+  button_element_executable_block_identifier = c375f117-59c6-4b3e-a50f-fbb4dd51febd-1789953351551
+  [executable_action_instance:12dbe2d4-8a54-4969-a3f2-3a467f4c0a28-1789953351551][action_type:mimicbutton] = pause_screen:mc_pausescreen_disconnect_button
+  [executable_block:c375f117-59c6-4b3e-a50f-fbb4dd51febd-1789953351551][type:generic] = [executables:12dbe2d4-8a54-4969-a3f2-3a467f4c0a28-1789953351551;]
+  backgroundnormal = [source:local]/config/fancymenu/assets/btn_salir.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/btn_salir.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Salir
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 0423dbd0-0759-4214-aade-8be98e9ace45-1789953351551
+  anchor_point = mid-centered
+  x = 0
+  y = 68
+  width = 240
+  height = 80
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+}

@@ -6,7 +6,7 @@ hash = "2ca4c5f28a4029d9219d0949cf9279f36804d482626597369ff4b8b4e88e9c22"
 
 [[files]]
 file = "MENU_GUIDE.md"
-hash = "ab19e1ac1a4063ad09a44afbe177154de155810e4017069b82bf077a38b474b4"
+hash = "e6dd79690a9c64b3bd4a02eac0e29a50448be9acb35ea95c15b25f304be0fc57"
 
 [[files]]
 file = "MODLIST.md"
@@ -18,7 +18,7 @@ hash = "98796440ddd9cdf62deb649fa5d3df85cdbe27e27945ad918cfe4500c8e639a0"
 
 [[files]]
 file = "README.md"
-hash = "5b2ff46f49700884f0d4bd5532c2cfe599991fa72b55dcbbd866d13f4811c11c"
+hash = "9cd3039136e574bd44a9553f45e04d2a8eed09245089145fff911dde4e058b58"
 
 [[files]]
 file = "config/fancymenu/assets/background.png"
@@ -59,6 +59,18 @@ hash = "30da720bf58a9648e67189518c0f6c06f8e28fce4d8c1e1af3ee99a1d4da3bdb"
 [[files]]
 file = "config/fancymenu/assets/logo.png"
 hash = "ae44629c13678ffd77b40bbfa08fda4350f8aa8c6c55908aa911d02438cfe4be"
+
+[[files]]
+file = "config/fancymenu/customization/info_screen_layout.txt"
+hash = "9cf43e5eb17f000de748e11c0cc1b16c36984b63e924c2c2080cb8c62f3afe15"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "f3192aa0b79c43611d782894c08545f0e1d0487cfdf6c9391707c6f1a628eace"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "77236ed27f68de1b2ac687f72c5e698f49da6cedfcecc1bcc600ecc74124ff5f"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"

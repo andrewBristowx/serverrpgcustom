@@ -9,8 +9,8 @@ dimensiones/exploración, enemigos y jefes, mascotas domesticables, un sistema d
 Quests), un sistema de rangos de chat administrable por comandos (admin / vip / streamer), y un menú
 principal/pausa personalizado (FancyMenu) - todo montado con **packwiz** y scripts de **KubeJS**.
 
-Menú custom: ver [MENU_GUIDE.md](MENU_GUIDE.md) - los assets ya están recortados y listos, falta armarlos
-en el editor in-game de FancyMenu (no se puede escribir ese layout a mano, ver el porqué en esa guía).
+Menú custom: ver [MENU_GUIDE.md](MENU_GUIDE.md) - el layout de FancyMenu ya está escrito (menú principal,
+pausa, y una página de Info), solo falta poner el link de Discord y probarlo en el juego.
 
 ## Estructura del proyecto
 
