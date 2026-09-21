@@ -1,5 +1,9 @@
 # Somitaw Adventure Pack (NeoForge 1.20.1)
 
+Repo: https://github.com/andrewBristowx/serverrpgcustom
+URL de `pack.toml` para instaladores (packwiz-installer, Prism Launcher):
+`https://raw.githubusercontent.com/andrewBristowx/serverrpgcustom/master/pack.toml`
+
 Modpack grande orientado a aventura: **Create** como columna vertebral tecnológica, un montón de
 dimensiones/exploración, enemigos y jefes, mascotas domesticables, un sistema de misiones guiado (FTB
 Quests) y un sistema de rangos de chat administrable por comandos (admin / vip / streamer), todo montado
@@ -39,11 +43,9 @@ mods: el proyecto pesa unos KB en vez de varios GB, y actualizar un mod es un so
 2. Instala **packwiz-installer** (necesita Java) o usa un launcher que soporte packwiz directamente
    (Prism Launcher lo soporta nativo). Desde la carpeta del servidor:
    ```
-   java -jar packwiz-installer-bootstrap.jar -g -s server "https://<donde-subas-el-pack.toml>"
+   java -jar packwiz-installer-bootstrap.jar -g -s server "https://raw.githubusercontent.com/andrewBristowx/serverrpgcustom/master/pack.toml"
    ```
-   Esto descarga todos los `.jar` de `mods/` automáticamente a partir del `pack.toml`. (Necesitas subir
-   esta carpeta a algún sitio accesible por URL - GitHub raw, o `packwiz serve` para probarlo en tu propia
-   red local primero.)
+   Esto descarga todos los `.jar` de `mods/` automáticamente a partir del `pack.toml`.
 3. Copia los scripts de `kubejs/` a la carpeta del servidor (packwiz también puede versionarlos si los
    agregas al índice con `packwiz refresh` - ya están incluidos en el índice general del pack).
 4. Dale bastante memoria a la JVM: con 200+ mods, arranca con al menos `-Xmx6G` (idealmente 8-10G si el
@@ -55,7 +57,8 @@ mods: el proyecto pesa unos KB en vez de varios GB, y actualizar un mod es un so
 
 Igual que el servidor pero sin `-s server` (o instalando el lado "client"): packwiz separa automáticamente
 qué mods son solo-cliente (mapas, minimapa, shaders) de los que también hacen falta en servidor.
-Prism Launcher: `Add Instance -> Import -> pega la URL de tu pack.toml` y listo, descarga todo solo.
+Prism Launcher: `Add Instance -> Import -> pega esta URL`:
+`https://raw.githubusercontent.com/andrewBristowx/serverrpgcustom/master/pack.toml`
 
 ## Sistema de rangos de chat
 
