@@ -1,16 +1,28 @@
 # Diseño del libro de misiones (FTB Quests)
 
-El modpack ya trae **FTB Quests** instalado (`ftb-quests-forge`, `ftb-library-forge`, `ftb-teams-forge`) para el
-sistema de progresión guiada.
+El modpack ya trae **FTB Quests** instalado para el sistema de progresión guiada.
 
-## Por qué esto es un documento de diseño y no archivos de misiones ya hechos
+## Actualización: ya hay misiones reales cargadas
 
-FTB Quests guarda cada misión con un ID hexadecimal único y referencias exactas a los items de cada mod
-(por ejemplo `twilightforest:naga_scale`). Esos IDs de item solo se pueden verificar con seguridad abriendo
-el juego con los mods cargados y arrastrando el item real desde JEI al editor - escribir esos archivos a
-mano sin poder probarlos en este entorno es el tipo de cosa que puede corromper el libro de misiones al
-cargar. Por eso te dejo la **estructura completa ya pensada** (capítulos, orden, qué debe desbloquear qué)
-para que la construyas en el editor in-game en un par de horas, en vez de arriesgarme a entregarte algo roto.
+En `config/ftbquests/quests/` ya hay **6 capítulos con 22 misiones jugables** (Tutorial, Create, Bosque
+Crepuscular, Bestiario, Compañeros, Ars Nouveau), escritas a mano usando IDs de item/entidad **verificados
+de verdad**: bajé los `.jar` de Create, Twilight Forest, Alex's Mobs, Ice and Fire y Ars Nouveau y saqué los
+IDs reales de sus archivos `lang/en_us.json` (no adiviné ningún nombre de item). El formato SNBT también lo
+verifiqué contra un pack público real (Enigmatica 6) antes de escribir nada, así que debería cargar sin
+romper el libro - igual no pude abrir Minecraft acá para confirmarlo en vivo, así que si al entrar ves un
+error en el libro de misiones, pegame el log de la consola.
+
+Lo que queda del documento de abajo es la estructura pensada para el resto de mods que **todavía no tienen
+misiones escritas** (Aether, Ad Astra, Cataclysm, Mowzie's Mobs, etc.) - constrúyelas en el editor in-game
+(`/ftbquests edit_mode true`) siguiendo la misma lógica de progresión, o pedime que agregue más capítulos
+y repito el mismo proceso (bajar el jar, sacar IDs reales, escribir el SNBT).
+
+## Por qué el resto sigue siendo un documento de diseño
+
+FTB Quests guarda cada misión con un ID hexadecimal único y referencias exactas a los items de cada mod.
+Esos IDs solo los puedo verificar bajando el `.jar` real del mod e inspeccionando su archivo de idioma (como
+hice arriba) - es mucho trabajo por mod, así que para el resto del pack te dejo la **estructura ya pensada**
+(capítulos, orden, qué debe desbloquear qué) en vez de escribir 200 mods de misiones a ciegas.
 
 Si en algún momento me pegas errores de consola o capturas del editor, puedo ayudarte a ajustar misiones
 puntuales con IDs reales.

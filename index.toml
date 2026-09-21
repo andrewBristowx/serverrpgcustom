@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".claude/scheduled_tasks.lock"
+hash = "2ca4c5f28a4029d9219d0949cf9279f36804d482626597369ff4b8b4e88e9c22"
+
+[[files]]
 file = "MODLIST.md"
 hash = "53fe948320b7943d8a9331d452408d7695709c8d140fde4da4ef97d0963eab35"
 
@@ -11,6 +15,34 @@ hash = "6f476f44b44482ebd3dd969c28cf52d9ffdb125009567d3558c30d239a8e53e5"
 [[files]]
 file = "README.md"
 hash = "904d2a8025659081e230723fec3fff955ca197481ad5ff186f4f61f764498ae8"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "479cc4583340f0d4c2b3a03cfea9d4d9a3dfd4528bd375c27184e67c4b697195"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/0D37D213F7574E48.snbt"
+hash = "e4624398fc07e05f33f51172c392fbc5d20a2a94ef23d4d22b829d8a9f31d349"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2E4BA1C751561BDF.snbt"
+hash = "fc27cbefaa07cb6249a17e077e405dcc10f0bff4a0a80fadee443108238168a3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/9671F9FCFC6DFD73.snbt"
+hash = "a39b15270edbdeb86e2be4113e28a5627734bee0783b3b47ffb1a5aac9f46784"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/9EEEC83B804AF50B.snbt"
+hash = "d4d41b46b4fa0e33641de13fc9aeec93206e68070fbaba4bb8cd3960ed749dfe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/D8560FC6F22D5F5E.snbt"
+hash = "482f25fc6da5b0021bd43e0017d4980c4d2b638cdc5cc7fa7ed69e691edc7dd9"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/F9C8D0C5C115BF36.snbt"
+hash = "be28ff6a028f2bd0c648d176a729b2763ec62a18aabd2b3355d962c3187fe457"
 
 [[files]]
 file = "kubejs/server_scripts/rank_chat_color.js"
@@ -178,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
 
 [[files]]
@@ -511,6 +548,11 @@ hash = "25febb86e2f767e08bac5879ff8df5dd2f9201b01b94f81e3f7b2d64a2c6f015"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "3e8cbae6a944592a6485b8c5e62b0794fe950ba8a6b155302d08f4205b9ad9b3"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "5f2372d0191c0c6412051ef3d17831c23868a54f6886045ab37385a8789b600e"
 metafile = true
@@ -538,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "e87e55d35c6a335f35329b1356c8c40589f6b955b4933614f03d6c8b747f1476"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "e2337a3930d3dfb07c051ff0000b2ebd8d4638e17f091b7ad2c786bf0b25d095"
 metafile = true
 
 [[files]]
@@ -993,6 +1040,11 @@ metafile = true
 [[files]]
 file = "mods/the-harvest.pw.toml"
 hash = "3a623778e123036da9a2c2aa1cc4aad9c4fba087c9c0a0935c31ff6c87e00527"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]

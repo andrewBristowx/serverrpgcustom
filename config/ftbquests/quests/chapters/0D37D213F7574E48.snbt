@@ -1,0 +1,152 @@
+{
+	id: "0D37D213F7574E48"
+	filename: "0D37D213F7574E48"
+	group: "8B0AF4EA43B1187A"
+	order_index: 0
+	title: "Bestiario"
+	icon: "minecraft:diamond_sword"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [ ]
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4E86E7EB29A239C7"
+			title: "Cazador novato"
+			icon: "minecraft:diamond_sword"
+			x: 0.0d
+			y: 0.0d
+			shape: "circle"
+			description: [
+				"Alex's Mobs llena el mundo de criaturas nuevas. Empeza cazando un Grizzly Bear, los vas a encontrar en biomas frios/boscosos."
+			]
+			tasks: [
+				{
+					id: "D003AF531E2691B6"
+					type: "kill"
+					entity: "alexsmobs:grizzly_bear"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "AEF0F59B82E4294D"
+					type: "xp"
+					xp: 50
+				}
+			]
+		}
+		{
+			id: "4700FD3F6F7A1A47"
+			title: "Depredador del desierto"
+			icon: "minecraft:diamond_sword"
+			x: 2.0d
+			y: 0.0d
+			shape: "circle"
+			dependencies: ["4E86E7EB29A239C7"]
+			description: [
+				"El Komodo Dragon vive en biomas de sabana/desierto y envenena con su mordida. Cazalo con cuidado."
+			]
+			tasks: [
+				{
+					id: "932AC54CBEAC02D6"
+					type: "kill"
+					entity: "alexsmobs:komodo_dragon"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "CCC4A0E825B2D539"
+					type: "xp"
+					xp: 75
+				}
+			]
+		}
+		{
+			id: "271E506BE6F228BF"
+			title: "Forjar plata"
+			icon: "iceandfire:silver_ingot"
+			x: 4.0d
+			y: 0.0d
+			shape: "diamond"
+			dependencies: ["4700FD3F6F7A1A47"]
+			description: [
+				"Antes de meterte con los dragones de Ice and Fire, conseguite equipo de plata: es mas fuerte que el hierro y hace falta para ciertas peleas."
+			]
+			tasks: [
+				{
+					id: "47A2C872B4A62A47"
+					type: "item"
+					item: { id: "iceandfire:silver_ingot" }
+					count: 8L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "7413772A84C627D0"
+					type: "item"
+					item: "iceandfire:silver_sword"
+					count: 1
+				}
+			]
+		}
+		{
+			id: "445F8BE08077680B"
+			title: "Dragon de fuego"
+			icon: "iceandfire:dragon_horn_fire"
+			x: 6.0d
+			y: -1.0d
+			shape: "hexagon"
+			dependencies: ["271E506BE6F228BF"]
+			description: [
+				"Los dragones de fuego anidan en biomas calidos. Son de los enemigos mas peligrosos del pack - anda con armadura buena."
+			]
+			tasks: [
+				{
+					id: "1D99814B8C343048"
+					type: "kill"
+					entity: "iceandfire:fire_dragon"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "037DED25A388C1F6"
+					type: "item"
+					item: "iceandfire:dragon_horn_fire"
+					count: 1
+				}
+			]
+		}
+		{
+			id: "BD736BC79D863397"
+			title: "Dragon de hielo"
+			icon: "iceandfire:dragon_horn_ice"
+			x: 6.0d
+			y: 1.0d
+			shape: "hexagon"
+			dependencies: ["271E506BE6F228BF"]
+			description: [
+				"Los dragones de hielo anidan en biomas frios/montañosos. Igual de peligrosos que los de fuego, pero con ataques de hielo."
+			]
+			tasks: [
+				{
+					id: "D6BBC1C2658BC9C8"
+					type: "kill"
+					entity: "iceandfire:ice_dragon"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "FC6AFD435E156C58"
+					type: "item"
+					item: "iceandfire:dragon_horn_ice"
+					count: 1
+				}
+			]
+		}
+	]
+}

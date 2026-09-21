@@ -1,0 +1,70 @@
+{
+	id: "D8560FC6F22D5F5E"
+	filename: "D8560FC6F22D5F5E"
+	group: "4D4366D5990EF481"
+	order_index: 0
+	title: "Bienvenida"
+	icon: "minecraft:book"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [ ]
+	quest_links: [ ]
+	quests: [
+		{
+			id: "B2A4E1A41F5F330B"
+			title: "Bienvenido al pack"
+			icon: "minecraft:book"
+			x: 0.0d
+			y: 0.0d
+			shape: "circle"
+			description: [
+				"Este es el libro de misiones del pack. Te va a ir guiando por Create, las dimensiones nuevas, los enemigos y jefes, y las mascotas que se pueden domesticar."
+				""
+				"Abri el chat y probá /rank get para ver tu rango actual."
+			]
+			tasks: [
+				{
+					id: "F5A7D9CF8BF33AD3"
+					type: "checkmark"
+					title: "Leer esto"
+				}
+			]
+			rewards: [
+				{
+					id: "06E15D0DAD3FE3D1"
+					type: "xp"
+					xp: 50
+				}
+			]
+		}
+		{
+			id: "51460DF0318CF87F"
+			title: "Primeras herramientas"
+			icon: "minecraft:stone_pickaxe"
+			x: 2.0d
+			y: 0.0d
+			shape: "circle"
+			dependencies: ["B2A4E1A41F5F330B"]
+			description: [
+				"Antes de meterte con Create o con los mods de exploracion, conseguite las herramientas basicas de siempre."
+			]
+			tasks: [
+				{
+					id: "EEF49BB642C5E0BE"
+					type: "item"
+					item: { id: "minecraft:stone_pickaxe" }
+					count: 1L
+					consume_items: false
+				}
+			]
+			rewards: [
+				{
+					id: "E5950891662636C9"
+					type: "item"
+					item: "minecraft:bread"
+					count: 8
+				}
+			]
+		}
+	]
+}

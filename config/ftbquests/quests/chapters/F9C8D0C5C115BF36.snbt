@@ -1,0 +1,99 @@
+{
+	id: "F9C8D0C5C115BF36"
+	filename: "F9C8D0C5C115BF36"
+	group: "4C2939C567E9FB02"
+	order_index: 0
+	title: "Ars Nouveau"
+	icon: "ars_nouveau:wand"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [ ]
+	quest_links: [ ]
+	quests: [
+		{
+			id: "30842E92257D6471"
+			title: "El cuaderno"
+			icon: "ars_nouveau:worn_notebook"
+			x: 0.0d
+			y: 0.0d
+			shape: "circle"
+			description: [
+				"El Worn Notebook es lo primero que aparece en cofres de aldea/ruinas y te introduce a la magia de Ars Nouveau."
+			]
+			tasks: [
+				{
+					id: "1FC0A14A76974B71"
+					type: "item"
+					item: { id: "ars_nouveau:worn_notebook" }
+					count: 1L
+					consume_items: false
+				}
+			]
+			rewards: [
+				{
+					id: "FF7CE8CA55827CD3"
+					type: "xp"
+					xp: 50
+				}
+			]
+		}
+		{
+			id: "C276C28FB49F5FC2"
+			title: "La varita"
+			icon: "ars_nouveau:wand"
+			x: 2.0d
+			y: 0.0d
+			shape: "circle"
+			dependencies: ["30842E92257D6471"]
+			description: [
+				"La Enchanter's Wand es tu herramienta para armar hechizos combinando Glyphs. Se craftea con Archwood."
+			]
+			tasks: [
+				{
+					id: "B2A573064834D391"
+					type: "item"
+					item: { id: "ars_nouveau:wand" }
+					count: 1L
+					consume_items: false
+				}
+			]
+			rewards: [
+				{
+					id: "BD030611FE9486B4"
+					type: "item"
+					item: "ars_nouveau:blank_glyph"
+					count: 4
+				}
+			]
+		}
+		{
+			id: "02EC954158C3FFA5"
+			title: "Gemas fuente"
+			icon: "ars_nouveau:source_gem"
+			x: 4.0d
+			y: 0.0d
+			shape: "circle"
+			dependencies: ["C276C28FB49F5FC2"]
+			description: [
+				"El Source Gem almacena mana para tus hechizos. Se craftea combinando Source liquido (de un Arcane Wellspring) con un diamante."
+			]
+			tasks: [
+				{
+					id: "837CA42050C108FB"
+					type: "item"
+					item: { id: "ars_nouveau:source_gem" }
+					count: 4L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "E21D1BDCB03BA9F6"
+					type: "item"
+					item: "ars_nouveau:novice_spell_book"
+					count: 1
+				}
+			]
+		}
+	]
+}

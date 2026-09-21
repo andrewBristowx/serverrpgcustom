@@ -1,0 +1,152 @@
+{
+	id: "2E4BA1C751561BDF"
+	filename: "2E4BA1C751561BDF"
+	group: "EBFE81B722DE7DDE"
+	order_index: 0
+	title: "Bosque Crepuscular"
+	icon: "twilightforest:naga_scale"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [ ]
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1C2BD5DF0020C219"
+			title: "Entrar al Bosque Crepuscular"
+			icon: "minecraft:oak_sapling"
+			x: 0.0d
+			y: 0.0d
+			shape: "circle"
+			description: [
+				"El portal se arma con un charco de agua de 2x3 rodeado de flores en el piso alrededor (cualquier flor vanilla sirve). Tirale un diamante adentro del agua para activarlo."
+			]
+			tasks: [
+				{
+					id: "3C9E8E0229EEF877"
+					type: "checkmark"
+					title: "Llegar al Bosque Crepuscular"
+				}
+			]
+			rewards: [
+				{
+					id: "B45F55DE886F237F"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			id: "DFB8F9EFFC7452F2"
+			title: "Madera de hierro"
+			icon: "twilightforest:ironwood_ingot"
+			x: 2.0d
+			y: -1.0d
+			shape: "circle"
+			dependencies: ["1C2BD5DF0020C219"]
+			description: [
+				"El Ironwood es el primer material de mejora de esta dimension. Se saca fundiendo Raw Ironwood, que dropean los arboles gigantes."
+			]
+			tasks: [
+				{
+					id: "D0D15FE18063F483"
+					type: "item"
+					item: { id: "twilightforest:raw_ironwood" }
+					count: 8L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "BC67BC9C02FF9A81"
+					type: "item"
+					item: "twilightforest:ironwood_ingot"
+					count: 4
+				}
+			]
+		}
+		{
+			id: "023724EE61510559"
+			title: "Derrotar a la Naga"
+			icon: "twilightforest:naga_scale"
+			x: 2.0d
+			y: 1.0d
+			shape: "hexagon"
+			dependencies: ["1C2BD5DF0020C219"]
+			description: [
+				"La Naga guarda el laberinto de Nagastone. Es el primer jefe recomendado del Bosque Crepuscular."
+			]
+			tasks: [
+				{
+					id: "4F6E49EFBF5B0E53"
+					type: "kill"
+					entity: "twilightforest:naga"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "CC31B5ED6A9EAD0A"
+					type: "item"
+					item: "twilightforest:knightmetal_ingot"
+					count: 2
+				}
+			]
+		}
+		{
+			id: "5FD48C4C7A16124D"
+			title: "Derrotar al Lich"
+			icon: "twilightforest:knightmetal_ingot"
+			x: 4.0d
+			y: 1.0d
+			shape: "hexagon"
+			dependencies: ["023724EE61510559"]
+			description: [
+				"El Lich es el jefe intermedio, en su torre. Cuidado con sus rayos y sus clones."
+			]
+			tasks: [
+				{
+					id: "AE70A8C0DA1C6457"
+					type: "kill"
+					entity: "twilightforest:lich"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "7C00F3F7157F904A"
+					type: "item"
+					item: "twilightforest:knightmetal_ingot"
+					count: 4
+				}
+			]
+		}
+		{
+			id: "F3ED878219E3D293"
+			title: "Derrotar al Ur-Ghast"
+			icon: "twilightforest:fiery_ingot"
+			x: 6.0d
+			y: 1.0d
+			shape: "hexagon"
+			dependencies: ["5FD48C4C7A16124D"]
+			description: [
+				"El Ur-Ghast espera en la Fortaleza de Fuego Crepuscular, la zona de endgame de esta dimension."
+			]
+			tasks: [
+				{
+					id: "A88CFF5FC2848882"
+					type: "kill"
+					entity: "twilightforest:ur_ghast"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "C2802F755AC567A7"
+					type: "item"
+					item: "twilightforest:fiery_ingot"
+					count: 4
+				}
+			]
+		}
+	]
+}

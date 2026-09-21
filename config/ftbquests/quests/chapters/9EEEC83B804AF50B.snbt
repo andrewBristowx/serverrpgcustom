@@ -1,0 +1,96 @@
+{
+	id: "9EEEC83B804AF50B"
+	filename: "9EEEC83B804AF50B"
+	group: "B2DBF567447B22EE"
+	order_index: 0
+	title: "Compañeros"
+	icon: "iceandfire:hippogryph_egg"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [ ]
+	quest_links: [ ]
+	quests: [
+		{
+			id: "29BD4CD858447448"
+			title: "Huevo de hipogrifo"
+			icon: "iceandfire:hippogryph_egg"
+			x: 0.0d
+			y: 0.0d
+			shape: "circle"
+			description: [
+				"Los hipogrifos anidan en montañas altas. Si le acercas un huevo a la base de tu casa y le das de comer, lo vas a poder montar de grande."
+			]
+			tasks: [
+				{
+					id: "7054EAC1B70C9407"
+					type: "item"
+					item: { id: "iceandfire:hippogryph_egg" }
+					count: 1L
+					consume_items: false
+				}
+			]
+			rewards: [
+				{
+					id: "4FFC3F857BBA13B5"
+					type: "xp"
+					xp: 75
+				}
+			]
+		}
+		{
+			id: "4FEE4BAED20ED4AD"
+			title: "Recursos Myrmex"
+			icon: "iceandfire:myrmex_jungle_chitin"
+			x: 2.0d
+			y: 0.0d
+			shape: "circle"
+			dependencies: ["29BD4CD858447448"]
+			description: [
+				"Los nidos Myrmex (desierto o jungla) tienen huevos que podes llevarte para criar tu propia colonia amiga."
+			]
+			tasks: [
+				{
+					id: "E03C81A1F9828F79"
+					type: "item"
+					item: { id: "iceandfire:myrmex_jungle_chitin" }
+					count: 8L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "D57C673874C86E32"
+					type: "item"
+					item: "iceandfire:myrmex_jungle_sword"
+					count: 1
+				}
+			]
+		}
+		{
+			id: "3918721D7FD9C81D"
+			title: "Domesticar y criar"
+			icon: "minecraft:egg"
+			x: 4.0d
+			y: 0.0d
+			shape: "circle"
+			dependencies: ["4FEE4BAED20ED4AD"]
+			description: [
+				"Meta final de este capitulo: tene al menos una criatura domesticada (de Alex's Mobs, Ice and Fire, u otro mod de mascotas del pack) y una pareja criada."
+			]
+			tasks: [
+				{
+					id: "7A0B590E06D98FA8"
+					type: "checkmark"
+					title: "Tener una mascota criada"
+				}
+			]
+			rewards: [
+				{
+					id: "3EAB31526B945B15"
+					type: "xp"
+					xp: 150
+				}
+			]
+		}
+	]
+}
