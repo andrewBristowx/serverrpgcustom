@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".claude/scheduled_tasks.lock"
-hash = "ad0ef997e62423a75774aab0d1cfa8e025c328854e0b8dc8af09fd08b80235a0"
-
-[[files]]
 file = "MODLIST.md"
 hash = "53fe948320b7943d8a9331d452408d7695709c8d140fde4da4ef97d0963eab35"
 
@@ -14,7 +10,7 @@ hash = "6f476f44b44482ebd3dd969c28cf52d9ffdb125009567d3558c30d239a8e53e5"
 
 [[files]]
 file = "README.md"
-hash = "61853236df0ab25d38a62cb3ee530740932e27a4cfdb2c2645409b23805f37dd"
+hash = "904d2a8025659081e230723fec3fff955ca197481ad5ff186f4f61f764498ae8"
 
 [[files]]
 file = "kubejs/server_scripts/rank_chat_color.js"
